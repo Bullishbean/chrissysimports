@@ -9,7 +9,7 @@ import { useWishlist } from "../../context/WishlistContext";
 import { Link } from "react-router-dom";
 import { AuthContext, auth } from "../../Auth/firebase";
 import i18n from "../common/components/LangConfig";
-import ReadmeComponent from "../Readme/ReadmeComp";
+//import ReadmeComponent from "../Readme/ReadmeComp";
 // import ThemeSwitcher from "./ThemeSwitcher";
 const Profile = () => {
   const { cartItems } = useCart();
@@ -300,7 +300,7 @@ const Profile = () => {
           </MenuItem>
         </Link>
       </Menu>
-      <ReadmeComponent />
+      {/* <ReadmeComponent /> */}
 
       {/* <ThemeSwitcher /> */}
     </div>

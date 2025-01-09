@@ -282,7 +282,7 @@ const resources = {
         2.1: "Free 30 Days Delivery Returns.Details",
       },
       contactPage: {
-        call: "Call To Us",
+        call: "Call Us",
         available: "We are available 24/7, 7 days a week.",
         phone: "Phone",
         write: "Write To US",
@@ -297,7 +297,7 @@ const resources = {
         title: "About",
         story: "Our Story",
         paragraph1:
-          "Launced in 2015, Exclusive is South Asia’s premier online shopping makterplace with an active presense in Bangladesh. Supported by wide range of tailored marketing, data and service solutions, Exclusive has 10,500 sallers and 300 brands and serves 3 millioons customers across the region.",
+          "Launced in 2024, Chrissy's Imports is Ghana’s premier online shopping makterplace with an active presense in Accra. Supported by wide range of tailored marketing, data and service solutions, Chrissy's Imports has 10,500 sallers and 300 brands and serves 3 million customers across the country.",
         paragraph2:
           "Exclusive has more than 1 Million products to offer, growing at a very fast. Exclusive offers a diverse assotment in categories ranging from consumer.",
         card1: "Sellers active on our site",
@@ -436,13 +436,13 @@ const resources = {
         downloadApp: "Download App",
         save: "Save $3 with App New User Only",
         support: "Support",
-        address: "111 Bijoy sarani, Dhaka, DH 1515, Bangladesh",
+        address: "Achimota, Accra",
         quickLinks: "Quick Links",
         privacy: "Privacy Policy",
         usage: "Terms Of Use",
         FAQ: "FAQ",
         Contact: "Contact",
-        copyrights: "© Copyright Rimel 2022. All rights reserved",
+        copyrights: "© Copyright Elisha 2024. All rights reserved",
         allRightsReserved: "© All rights reserved",
       },
     },

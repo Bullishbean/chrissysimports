@@ -66,7 +66,7 @@ const Footer = () => {
             className="justify-center items-stretch md:justify-between md:leading-5"
           >
             <Typography className="font-bold" variant="h6" gutterBottom>
-              Exclusive
+              Chrissy's Imports
             </Typography>
             <Typography className="font-medium" gutterBottom>
               {i18n.t("footer.subscribe")}
@@ -122,8 +122,8 @@ const Footer = () => {
               {i18n.t("footer.support")}
             </Typography>
             <Typography gutterBottom>{i18n.t("footer.address")}</Typography>
-            <Typography variant="body2">exclusive@gmail.com</Typography>
-            <Typography variant="body2">+88015-88888-9999</Typography>
+            <Typography variant="body2">chrissysshop@gmail.com</Typography>
+            <Typography variant="body2">+233556368542</Typography>
           </Grid>
 
           {/* Account */}
